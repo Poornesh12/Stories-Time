@@ -2,13 +2,6 @@
 
 <p>This is the Blogging Website made using Nodejs.</p>
 
-## Sample Video of WEBISTE  📽️:
-
-
-
-
-https://user-images.githubusercontent.com/85950488/171115951-664c9cdc-a3a5-45bb-a8cd-d69fb0042956.mp4
-
 
 
 
